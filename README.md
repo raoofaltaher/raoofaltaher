@@ -15,8 +15,7 @@ I am an AI developer, researcher, certified SCIE reviewer, published author, and
 
 ## Skills & Technologies
 
-pytorch,flask,docker,git,github,graphql,html,vue,react,fastapi,linux,css,mysql,ai,py,latex,vscode,tensorflow,opencv,mongodb
-
+[![My Skills](https://skillicons.dev/icons?i=flask,django,pytorch,tensorflow,git,github,docker,html,css,sqlite,postgres,mysql,aws,linux,react,vue,opencv,nestjs,mongodb,latex,py,ai,fastapi,graphql&perline=8)](https://skillicons.dev)
 ## Top Projects
 
 - [**modernbert-semantic-search**](https://github.com/raoofaltaher/modernbert-semantic-search) - Semantic Document Search with ModernBERT and Milvus. | Language: Python  
