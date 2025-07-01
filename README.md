@@ -19,7 +19,7 @@ I specialize in developing cutting-edge AI and deep learning solutions, with exp
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=flask,django,pytorch,tensorflow,git,github,docker,html,css,sqlite,postgres,mysql,aws,linux,react,vue,opencv,nestjs,mongodb,latex,py,ai,fastapi,graphql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,tensorflow,git,github,flask,react,opencv,latex,fastapi,docker,kubernetes,django,mongodb,sqlite,postgres,mysql,nestjs,vue,html,css,linux,graphql&perline=8)](https://skillicons.dev)
 
 </p>
 
