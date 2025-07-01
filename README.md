@@ -1,13 +1,15 @@
-## Hi there! 👋
-
-I'm **Raoof Altaher**, an AI developer, researcher, certified SCIE reviewer, published author, and PhD candidate. 
-
 <p align="center">
 <a href="https://open.spotify.com/playlist/027stQA4RAhfiJ4TffBgBJ?pi=d99LJhtMTZGTa" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Playlist" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/raoofaltaher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://raoofaltaher.start.page" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Blog/Portfolio" height="30" width="40" /></a>
 <a href="https://instagram.com/raoof.altaher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+---
+
+## Hi there! 👋
+
+I'm **Raoof Altaher**, an AI developer, researcher, certified SCIE reviewer, published author, and PhD candidate. 
 
 I specialize in developing cutting-edge AI and deep learning solutions, with expertise spanning computer vision, natural language processing, multi-agent systems, LLMs, and RAGs. I'm passionate about innovative artificial intelligence research and creating practical applications that solve real-world challenges.
 
